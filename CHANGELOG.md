@@ -1,5 +1,14 @@
 # Novidades
 
+## v0.2.1 — 7 de outubro de 2026
+
+- **Heróis com personalidade**: olhos diferentes para cada um (fenda, cílios, olhos miúdos, apertados, estrela), caretas variadas e corpos com silhueta própria.
+- **Trilha nova de rock** pesado e acelerado.
+- **Configuração de qualidade gráfica** (Baixa a Ultra) e **Super Resolução**, que roda em resolução menor e amplia com nitidez.
+- **Mais leve no navegador**: o cenário não é mais redesenhado enquanto você anda.
+- **Leitura melhor**: cenário mais discreto e anel de destaque sob o herói.
+- **Câmera com mais profundidade** ao andar.
+
 ## v0.2.0 — 7 de outubro de 2026
 
 - **Fases**: a cada 4 minutos a arena muda de bioma (Campo Esquecido, Deserto Escaldante, Pântano Sombrio, Terras Vulcânicas, Geleira Eterna).
