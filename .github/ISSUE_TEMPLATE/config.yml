@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Conversar sobre o jogo
+    url: https://github.com/srlorenzos/horda-infinita/discussions
+    about: Dúvidas, builds, recordes e papo geral ficam nas Discussões.
+  - name: Instagram do criador
+    url: https://www.instagram.com/srlorenzos/
+    about: Novidades e bastidores.

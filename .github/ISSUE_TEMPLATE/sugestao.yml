@@ -1,0 +1,15 @@
+name: Sugestão
+description: Uma ideia para o jogo (arma, personagem, modo, ajuste)
+title: "[Ideia] "
+labels: ["sugestão"]
+body:
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Qual é a ideia?
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por que deixaria o jogo melhor?

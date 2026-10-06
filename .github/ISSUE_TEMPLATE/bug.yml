@@ -1,0 +1,30 @@
+name: Bug
+description: Algo não funcionou como deveria
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: oque
+    attributes:
+      label: O que aconteceu?
+      description: Conte o que você estava fazendo e o que deu errado.
+    validations:
+      required: true
+  - type: input
+    id: onde
+    attributes:
+      label: Onde você jogou?
+      placeholder: "Ex.: Chrome no Windows, Safari no iPhone"
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do jogo
+      description: Aparece no canto inferior esquerdo do menu.
+      placeholder: "v0.2.0"
+  - type: textarea
+    id: imagem
+    attributes:
+      label: Print ou vídeo (opcional)
+      description: Arraste a imagem para cá.
