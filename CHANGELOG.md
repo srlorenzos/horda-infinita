@@ -1,5 +1,10 @@
 # Novidades
 
+## Site novo — 7 de outubro de 2026
+
+- **Página de download** com o visual do jogo: logo, madeira e dourado, elenco de heróis e galeria. Acesse em https://horda-infinita.netlify.app/baixar.html
+- **Logo na tela de carregamento** do jogo.
+
 ## v0.8.1 (correção) — 7 de outubro de 2026
 
 - **Navegador**: setas, estrelas e ícones que apareciam como quadradinhos agora aparecem certos.
