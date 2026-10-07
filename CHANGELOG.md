@@ -1,5 +1,16 @@
 # Novidades
 
+## v0.5.1 — 7 de outubro de 2026
+
+- **Câmera mais aberta** e ritmo mais acelerado: você vê a horda chegando.
+- **Impacto ao acertar**: cada golpe tem peso.
+- **Visual mais limpo**: contornos finos e sombras no lugar de brilhos exagerados.
+- **Som ambiente** diferente em cada bioma.
+- **Medidor de dificuldade** no topo da tela, que sobe com o tempo.
+- **Combo de abates**.
+- **Resumo da partida** ao final.
+- **Os heróis falam** durante a partida.
+
 ## v0.5.0 — 7 de outubro de 2026
 
 - **Visual refeito**: cenário discreto e heróis, monstros, tiros e gemas em destaque. O herói ganhou contorno claro e aura de poder; os inimigos, contorno grosso.
