@@ -1,5 +1,13 @@
 # Novidades
 
+## v0.7.1 — 7 de outubro de 2026
+
+- **Monstros, chefes, baús e moedas com sprites animados.**
+- **Heróis redesenhados**, com mãos segurando a arma.
+- **Botões com reflexo** e acabamento mais bonito.
+- **Início de partida mais movimentado.**
+- **Câmera sempre estável**: o efeito de profundidade ao andar foi removido.
+
 ## v0.6.0 — 7 de outubro de 2026
 
 - **Câmera mais aberta** e ritmo mais acelerado: você vê a horda chegando.
