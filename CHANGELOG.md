@@ -1,5 +1,16 @@
 # Novidades
 
+## v0.5.0 — 7 de outubro de 2026
+
+- **Visual refeito**: cenário discreto e heróis, monstros, tiros e gemas em destaque. O herói ganhou contorno claro e aura de poder; os inimigos, contorno grosso.
+- **Personagens mais únicos**: silhuetas e proporções próprias, novas feições e acessórios, mãos segurando a arma.
+- **6 acessórios premium novos**: Kabuto, Viking, Pirata, Dragão, Glacial e Neon.
+- **Menu novo**: vitrine do herói, botões com ícone, moedas em pílulas e transições suaves.
+- **Cartas de level-up** com 4 tipos de entrada; elas levantam quando você passa o mouse.
+- **Progressão**: liga por temporada, Ascensão (prestígio infinito) e contratos que nunca acabam.
+- **Opção Câmera 3D**: o efeito de profundidade ao andar agora pode ser ligado e desligado em Opções e vem desligado.
+- **Avisos** de conquista menores, sem cobrir os botões.
+
 ## v0.2.1 — 7 de outubro de 2026
 
 - **Heróis com personalidade**: olhos diferentes para cada um (fenda, cílios, olhos miúdos, apertados, estrela), caretas variadas e corpos com silhueta própria.
