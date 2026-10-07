@@ -1,5 +1,13 @@
 # Novidades
 
+## v0.8.2 — 7 de outubro de 2026
+
+- **Mais difícil, sem ficar mais rápido**: monstros com bem mais vida, subir de nível custa mais e o combo dá um bônus pequeno.
+- **Hordas gigantes**: a horda cresce com o tempo e, a cada minuto, um **anel de monstros** cerca você, com brechas para escapar.
+- **Esquiva** para todos os heróis: **Shift** no teclado ou **B** no controle, com indicador no canto da tela.
+- **Pets** mais afastados do herói e mais fracos.
+- **Tiros** sem clarão nem brilho em volta.
+
 ## Tela cheia no celular — 7 de outubro de 2026
 
 - Ao adicionar o jogo à **tela de início** do iPhone ou Android, ele abre em **tela cheia**, sem a barra do navegador, como um app.
