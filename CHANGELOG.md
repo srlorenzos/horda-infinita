@@ -1,5 +1,14 @@
 # Novidades
 
+## v0.8.1 — 7 de outubro de 2026
+
+- **15 heróis novos e originais**: Vovó Granada, El Sofá, Pombo Vingador, Dr. Febre, Contador Furioso, Sr. Espelho, GL1TCH, Caranguejo de Terno, Laura (a Barista Elétrica), O Imortal Entediado, Capitã Tempestade, Rei Falido, Geladeira Ambulante, Tamanduá Berserker e Mecha-Capivara, cada um com falas e skins.
+- **Tela de abertura** com o logo em 3D.
+- **Visual de madeira e dourado** nos menus.
+- **Moedas, cristais e cenário** com sprites novos.
+- **Tiros redesenhados**: os inimigos atiram bólidos roxos, e os tiros dos heróis ficaram alongados, na cor de cada arma.
+- **Direitos autorais**: aviso no jogo e licença de todos os direitos reservados.
+
 ## v0.7.1 — 7 de outubro de 2026
 
 - **Monstros, chefes, baús e moedas com sprites animados.**
