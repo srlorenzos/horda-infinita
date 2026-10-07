@@ -1,5 +1,9 @@
 # Novidades
 
+## Tela cheia no celular — 7 de outubro de 2026
+
+- Ao adicionar o jogo à **tela de início** do iPhone ou Android, ele abre em **tela cheia**, sem a barra do navegador, como um app.
+
 ## Site novo — 7 de outubro de 2026
 
 - **Página de download** com o visual do jogo: logo, madeira e dourado, elenco de heróis e galeria. Acesse em https://horda-infinita.netlify.app/baixar.html
