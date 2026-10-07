@@ -1,6 +1,6 @@
 # Novidades
 
-## v0.5.1 — 7 de outubro de 2026
+## v0.6.0 — 7 de outubro de 2026
 
 - **Câmera mais aberta** e ritmo mais acelerado: você vê a horda chegando.
 - **Impacto ao acertar**: cada golpe tem peso.
