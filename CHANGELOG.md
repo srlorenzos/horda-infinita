@@ -1,5 +1,9 @@
 # Novidades
 
+## v0.8.1 (correção) — 7 de outubro de 2026
+
+- **Navegador**: setas, estrelas e ícones que apareciam como quadradinhos agora aparecem certos.
+
 ## v0.8.1 — 7 de outubro de 2026
 
 - **15 heróis novos e originais**: Vovó Granada, El Sofá, Pombo Vingador, Dr. Febre, Contador Furioso, Sr. Espelho, GL1TCH, Caranguejo de Terno, Laura (a Barista Elétrica), O Imortal Entediado, Capitã Tempestade, Rei Falido, Geladeira Ambulante, Tamanduá Berserker e Mecha-Capivara, cada um com falas e skins.
