@@ -23,6 +23,8 @@
 | ![Menu principal com a Vovó Granada em destaque](media/menu.png) | ![Tela de escolha do herói com atributos e habilidades](media/herois.png) |
 | **Cartas de level-up** | **Loja** |
 | ![Cartas de level-up para escolher armas e melhorias](media/cartas.png) | ![Loja com skins e acessórios](media/loja.png) |
+| **Arena do chefe** | **Tela Jogar (mapa à escolha)** |
+| ![Anel de muros em ruína em volta do herói durante o chefe](media/arena-chefe.png) | ![Tela Jogar com modo, dificuldade, mapa e maldições](media/jogar.png) |
 | **Mini-vila** | **Ruínas** |
 | ![Mini-vila com casas, poço e cercado](media/zonas.png) | ![Ruínas com muros e pilares que param os tiros](media/ruinas.png) |
 

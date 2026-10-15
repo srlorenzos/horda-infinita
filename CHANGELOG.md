@@ -1,5 +1,12 @@
 # Novidades
 
+## v0.9.2 — 15 de outubro de 2026
+
+- **Arena do chefe**: quando um chefe aparece, um anel de muros em ruína sobe do chão em volta de você, com duas brechas. Os muros bloqueiam e param tiros; desmoronam quando o chefe cai.
+- **Escolha de mapa** na tela Jogar: ciclo de fases (como antes) ou um bioma fixo — Campo, Deserto, Pântano, Vulcão ou Geleira. A escolha fica salva.
+- **3 conquistas novas**: Explorador (visite todos os tipos de lugar), Fazendeiro (3 baús dentro de fazendas) e Rei das Ruínas (derrote um chefe nas ruínas).
+- **Game feel**: faíscas na cor da arma a cada acerto, hit-stop e tremor leve nos críticos; cartas de level-up em vidro.
+
 ## v0.9.1 — 15 de outubro de 2026
 
 - **Poderes no boneco**: nada de mãos soltas — a lança, o rifle e o chicote ficam na mão do herói (e o braço golpeia ao disparar), o bumerangue vai nas costas, as minas no cinto, e as magias viram **anéis de runas** nos pés na cor de cada poder.
