@@ -1,5 +1,10 @@
 # Novidades
 
+## v0.9.3 — 15 de outubro de 2026
+
+- **Fusão de armas**: duas armas no nível máximo podem virar UMA arma lendária, liberando um espaço. Seis combinações: Lança Perfurante + Gelo Fractal = **Lança Glacial**; Bumerangue Ígneo + Chuva de Meteoros = **Bumerangue Cometa**; Chicote de Plasma + Raio em Cadeia = **Chicote Tempestade**; Lâmina Orbital + Buraco Negro = **Lâminas da Singularidade**; Drone Atirador + Fuzil Prismático = **Bateria de Drones**; Aura Corrosiva + Minas Pulsantes = **Campo Tóxico**. A carta "FUSÃO!" aparece garantida no level-up.
+- Conquista nova: **Alquimista** (faça sua primeira fusão).
+
 ## v0.9.2 — 15 de outubro de 2026
 
 - **Arena do chefe**: quando um chefe aparece, um anel de muros em ruína sobe do chão em volta de você, com duas brechas. Os muros bloqueiam e param tiros; desmoronam quando o chefe cai.

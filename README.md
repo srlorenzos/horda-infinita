@@ -23,6 +23,8 @@
 | ![Menu principal com a Vovó Granada em destaque](media/menu.png) | ![Tela de escolha do herói com atributos e habilidades](media/herois.png) |
 | **Cartas de level-up** | **Loja** |
 | ![Cartas de level-up para escolher armas e melhorias](media/cartas.png) | ![Loja com skins e acessórios](media/loja.png) |
+| **Fusão de armas** | **Recompensa diária** |
+| ![Carta lendária de fusão: Lança Glacial](media/fusao.png) | ![Menu com o modal da recompensa diária](media/menu.png) |
 | **Arena do chefe** | **Tela Jogar (mapa à escolha)** |
 | ![Anel de muros em ruína em volta do herói durante o chefe](media/arena-chefe.png) | ![Tela Jogar com modo, dificuldade, mapa e maldições](media/jogar.png) |
 | **Mini-vila** | **Ruínas** |
