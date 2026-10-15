@@ -23,6 +23,8 @@
 | ![Menu principal com a Vovó Granada em destaque](media/menu.png) | ![Tela de escolha do herói com atributos e habilidades](media/herois.png) |
 | **Cartas de level-up** | **Loja** |
 | ![Cartas de level-up para escolher armas e melhorias](media/cartas.png) | ![Loja com skins e acessórios](media/loja.png) |
+| **Dona Zilda em ação** | **Chefe: pancada telegrafada** |
+| ![Dona Zilda, a Faxineira Furiosa, com a aura corrosiva](media/zilda.png) | ![Círculo vermelho de aviso da pancada do Colosso](media/chefe-pancada.png) |
 | **Fusão de armas** | **Recompensa diária** |
 | ![Carta lendária de fusão: Lança Glacial](media/fusao.png) | ![Menu com o modal da recompensa diária](media/menu.png) |
 | **Arena do chefe** | **Tela Jogar (mapa à escolha)** |

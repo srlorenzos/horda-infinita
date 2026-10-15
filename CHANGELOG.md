@@ -1,5 +1,9 @@
 # Novidades
 
+## v0.9.5 — 15 de outubro de 2026
+
+- **Heroína nova: Dona Zilda, a Faxineira Furiosa.** Esfregão de plasma na mão, balde na outra. Ativa **Baldada**: joga um balde d'água à frente que empurra, encharca (lentidão) e fere. Passiva **Chão Limpo**: +30% de ímã e +20% de ouro. Desbloqueio por 6.000 de ouro na tela Jogar.
+
 ## v0.9.4 — 15 de outubro de 2026
 
 - **Chefes mais perigosos**: dois golpes novos com aviso no chão — a **Pancada** (um círculo vermelho enche onde você está e depois explode) e o **Feixe** (uma linha de fogo que varre o campo). O Colosso e a Hidra aprenderam a pancada; o Soberano e a Tecelã, o feixe.
