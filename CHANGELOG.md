@@ -1,5 +1,9 @@
 # Novidades
 
+## v0.9.7 — 15 de outubro de 2026
+
+- **Herói novo: Seu Jurandir, o Churrasqueiro.** Chapéu de chef, bigodão e um espeto que atravessa a horda (Lança Perfurante) com brasas caindo do céu. Ativa **Fumaceira**: uma nuvem de fumaça te segue por 3 s, queima e retarda quem entra, e te deixa invulnerável por 1 s. Passiva **Churrasco**: +0,5 de regeneração e, de vez em quando, um espetinho (cura) aparece aos seus pés. Desbloqueio por 8.000 de ouro.
+
 ## v0.9.6 — 15 de outubro de 2026
 
 - **Modo Arena**: uma muralha de pedra com **4 portões** cerca o campo; a horda só entra pelos portões. Sobreviva o máximo que puder (conta como Infinito, com maldições). Conquista nova: **Senhor dos Portões** (10 minutos na Arena).
