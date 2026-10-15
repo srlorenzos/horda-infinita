@@ -1,5 +1,13 @@
 # Novidades
 
+## v0.9.1 — 15 de outubro de 2026
+
+- **Poderes no boneco**: nada de mãos soltas — a lança, o rifle e o chicote ficam na mão do herói (e o braço golpeia ao disparar), o bumerangue vai nas costas, as minas no cinto, e as magias viram **anéis de runas** nos pés na cor de cada poder.
+- **Botões novos** em todo o jogo: gradiente suave, brilho no topo, sombra macia e cantos redondos; o JOGAR laranja, sucesso em verde, o resto em vidro.
+- **Moeda, gema e fragmento em 3D** no mesmo estilo dos heróis, em todos os contadores.
+- **Recompensa diária** redesenhada: anel pulsante no dia de hoje, check nos dias já coletados, dia 7 dourado e linha de progresso.
+- Avisos (conquista, passe, maestria) em vidro, sem cobrir os botões.
+
 ## v0.9.0 — 14 de outubro de 2026
 
 - **Mapa com lugares de verdade**: fazendas cercadas com portão, mini-vilas com poço e fogueira ligadas por caminhos de terra, ruínas com muros e pilares, bosques fechados e clareiras. Menos entulho espalhado: os objetos agora aparecem em grupos.
