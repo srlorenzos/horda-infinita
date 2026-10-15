@@ -1,5 +1,15 @@
 # Novidades
 
+## v0.9.0 — 14 de outubro de 2026
+
+- **Mapa com lugares de verdade**: fazendas cercadas com portão, mini-vilas com poço e fogueira ligadas por caminhos de terra, ruínas com muros e pilares, bosques fechados e clareiras. Menos entulho espalhado: os objetos agora aparecem em grupos.
+- **Colisão**: herói e monstros não atravessam mais árvores, pedras, cercas e casas; os monstros contornam. Muros, casas e pilares param os tiros (cercas baixas e árvores não). Baús gostam de aparecer dentro das fazendas.
+- **Leitura da tela**: cenário mais apagado, monstros com contorno, **XP em ciano brilhante** pulsando e **ouro cintilando**, visíveis de longe; seta na borda da tela para baús.
+- **Dois botões, dois poderes**: **Shift/B** é a esquiva (0,2 s invulnerável, recarga 2,5 s) e **Espaço/A** é a habilidade do herói; a habilidade padrão virou uma **Carga** que empurra e fere quem estiver no caminho.
+- **Zoom**: câmera um pouco mais afastada por padrão, com **roda do mouse / pinça** (0,7× a 1,2×) e slider em Opções.
+- **Interface de vidro** em todas as telas (loja, upgrades, perfil, resultado…), no mesmo estilo do menu; no celular o vidro é mais leve.
+- **Arte 3D toon**: cercas, portões, casas, poços, fogueiras, muros em ruína e pilares no mesmo estilo dos heróis.
+
 ## v0.8.2 — 7 de outubro de 2026
 
 - **Mais difícil, sem ficar mais rápido**: monstros com bem mais vida, subir de nível custa mais e o combo dá um bônus pequeno.
