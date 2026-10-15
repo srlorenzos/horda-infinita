@@ -23,6 +23,8 @@
 | ![Menu principal com a Vovó Granada em destaque](media/menu.png) | ![Tela de escolha do herói com atributos e habilidades](media/herois.png) |
 | **Cartas de level-up** | **Loja** |
 | ![Cartas de level-up para escolher armas e melhorias](media/cartas.png) | ![Loja com skins e acessórios](media/loja.png) |
+| **Modo Arena (4 portões)** | **Dona Zilda em ação** |
+| ![Muralha com portões cercando o campo no modo Arena](media/arena-modo.png) | ![Dona Zilda, a Faxineira Furiosa, com a aura corrosiva](media/zilda.png) |
 | **Dona Zilda em ação** | **Chefe: pancada telegrafada** |
 | ![Dona Zilda, a Faxineira Furiosa, com a aura corrosiva](media/zilda.png) | ![Círculo vermelho de aviso da pancada do Colosso](media/chefe-pancada.png) |
 | **Fusão de armas** | **Recompensa diária** |

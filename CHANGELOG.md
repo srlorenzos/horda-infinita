@@ -1,5 +1,10 @@
 # Novidades
 
+## v0.9.6 — 15 de outubro de 2026
+
+- **Modo Arena**: uma muralha de pedra com **4 portões** cerca o campo; a horda só entra pelos portões. Sobreviva o máximo que puder (conta como Infinito, com maldições). Conquista nova: **Senhor dos Portões** (10 minutos na Arena).
+- Loja com cards em vidro, no mesmo estilo do resto do jogo.
+
 ## v0.9.5 — 15 de outubro de 2026
 
 - **Heroína nova: Dona Zilda, a Faxineira Furiosa.** Esfregão de plasma na mão, balde na outra. Ativa **Baldada**: joga um balde d'água à frente que empurra, encharca (lentidão) e fere. Passiva **Chão Limpo**: +30% de ímã e +20% de ouro. Desbloqueio por 6.000 de ouro na tela Jogar.
