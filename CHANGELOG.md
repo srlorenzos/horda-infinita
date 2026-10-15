@@ -1,5 +1,10 @@
 # Novidades
 
+## v0.9.4 — 15 de outubro de 2026
+
+- **Chefes mais perigosos**: dois golpes novos com aviso no chão — a **Pancada** (um círculo vermelho enche onde você está e depois explode) e o **Feixe** (uma linha de fogo que varre o campo). O Colosso e a Hidra aprenderam a pancada; o Soberano e a Tecelã, o feixe.
+- Arena do chefe: correção de um erro visual ao desmoronar.
+
 ## v0.9.3 — 15 de outubro de 2026
 
 - **Fusão de armas**: duas armas no nível máximo podem virar UMA arma lendária, liberando um espaço. Seis combinações: Lança Perfurante + Gelo Fractal = **Lança Glacial**; Bumerangue Ígneo + Chuva de Meteoros = **Bumerangue Cometa**; Chicote de Plasma + Raio em Cadeia = **Chicote Tempestade**; Lâmina Orbital + Buraco Negro = **Lâminas da Singularidade**; Drone Atirador + Fuzil Prismático = **Bateria de Drones**; Aura Corrosiva + Minas Pulsantes = **Campo Tóxico**. A carta "FUSÃO!" aparece garantida no level-up.
