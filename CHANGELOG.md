@@ -1,5 +1,11 @@
 # Novidades
 
+## v0.9.9 — 15 de outubro de 2026
+
+- **Menus novos, no estilo "candy"**: botões gordinhos com brilho e lábio que afunda ao apertar, painéis com moldura, fitas de título, fonte arredondada e contorno único em tudo.
+- **Correção importante**: na tela de Jogar o botão COMEÇAR! podia ficar fora da tela. Agora o miolo rola e o botão fica sempre visível.
+- **Menos engasgos**: o mapa gera uma zona por vez (pico de 41 ms caiu para 6 ms), os efeitos de tela são pré-carregados e a colisão com obstáculos ficou 43% mais rápida. No modo Automático o jogo baixa a qualidade sozinho se o FPS cair.
+
 ## v0.9.7 — 15 de outubro de 2026
 
 - **Herói novo: Seu Jurandir, o Churrasqueiro.** Chapéu de chef, bigodão e um espeto que atravessa a horda (Lança Perfurante) com brasas caindo do céu. Ativa **Fumaceira**: uma nuvem de fumaça te segue por 3 s, queima e retarda quem entra, e te deixa invulnerável por 1 s. Passiva **Churrasco**: +0,5 de regeneração e, de vez em quando, um espetinho (cura) aparece aos seus pés. Desbloqueio por 8.000 de ouro.
